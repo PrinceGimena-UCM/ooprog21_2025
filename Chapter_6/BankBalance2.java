@@ -19,7 +19,6 @@ public class BankBalance2 {
             userChoice = input.nextInt();
             year++;
         } while (userChoice == 1);
-
-        System.out.println("----jGRASP: Operation complete.");
     }
 }
+
