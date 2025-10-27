@@ -28,8 +28,7 @@ public class BankBalance {
             System.out.print("Enter 1 for yes or any other number for no >> ");
             choice = input.nextInt();
         }
-
-        System.out.println("\n-----jGRASP: Operation complete.");
         input.close();
     }
 }
+
